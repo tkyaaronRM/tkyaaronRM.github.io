@@ -3,7 +3,9 @@ layout: defualt
 ---
 
 # About Me
+
 * * *
+
 Hello, I
 
 ## Header 2
