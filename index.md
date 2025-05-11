@@ -2,8 +2,9 @@
 layout: defualt
 ---
 
-# Header 1
-Content
+# About Me
+* * *
+Hello, I
 
 ## Header 2
 Content
