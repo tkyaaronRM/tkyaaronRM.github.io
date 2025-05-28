@@ -1,2 +1,2 @@
 # tkyaaronRM.github.io
-My COding, Roboitc and Music Journey
+My Music, Robotic and Coding Journey
