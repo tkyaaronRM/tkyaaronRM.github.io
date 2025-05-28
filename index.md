@@ -1,14 +1,14 @@
-## Header
+## My Robotic Journey
 
 <!--This automatically creates a line below ## Header-->
 <!--This is a comment-->
 
-My Robotic Journey
+Body
 
-## Header
+## My Coding Journey
 
-My Coding Journey
+Body
 
-## Header
+## My Music Journey
 
-My Music Journey
+Body
