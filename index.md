@@ -20,4 +20,6 @@ Click [here](https://github.com/tkyaaronRM/projects) for my collection of coding
 
 ## My Music Journey
 
-Click [here](https://youtu.be/T7e8JDK8MRA) for my performance of the Beethoven Spring Sonata
+My performance of the Beethoven Spring Sonata:
+
+[![here](thumbnail1.jpg)](https://youtu.be/T7e8JDK8MRA)
