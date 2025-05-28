@@ -5,7 +5,8 @@
 
 My journey into robotics began when I was six years old and received a LEGO EV3 Mindstorms kit. I was immediately fascinated by how I could build various models using LEGO parts and bring them to life with the brick. As I experimented, I began modifying the parts to create different types of movements and give each build a unique purpose. This hands-on experience sparked my curiosity and laid the foundation for my interest in robotics.
 
-![aa](Aaron-2023.jpg)
+![aa](thumbnail1.jpg)
+
 
 When I started having robotics lesson with the LEGO EV3, I was even more intrigued on how I can use incorporate the use of sensors to control the robot I built and how the design of the robot will contribute to the stability and performance of the robot.
 
@@ -15,7 +16,7 @@ The following year, I moved on to the National Robotics Competition.
 
 ## My Coding Journey
 
-Body
+[This](https://github.com/tkyaaronRM/projects) is my collection of coding projects
 
 ## My Music Journey
 
