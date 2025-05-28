@@ -16,8 +16,8 @@ The following year, I moved on to the National Robotics Competition.
 
 ## My Coding Journey
 
-[This](https://github.com/tkyaaronRM/projects) is my collection of coding projects
+Click [here](https://github.com/tkyaaronRM/projects) for my collection of coding projects
 
 ## My Music Journey
 
-Body
+Click [here](https://youtu.be/T7e8JDK8MRA) for my performance of the Beethoven Spring Sonata
