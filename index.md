@@ -3,7 +3,7 @@
 <!--This automatically creates a line below ## Header-->
 <!--This is a comment-->
 
-Body
+I was first exposed to robotics when I had my LEGO EV3 Mindstrom when I was 6 years old. 
 
 ## My Coding Journey
 
