@@ -21,9 +21,7 @@ Unfortunately, during the final run, a piece of LEGO got stuck under the robot, 
 
 ### Arduino
 
-I first started with the [Elegoo Uno R3 Kit](https://www.elegoo.com/blogs/arduino-projects/elegoo-uno-r3-project-the-most-complete-starter-kit-tutorial) (a kit with an Arduino Uno R3 Clone) to learn Arduino. After some time, I find that these totorials are a little boring.
-
-Hence, I took lessons on Arduino. After a while, I became even more excited about how many things I can build with a simple microcontroller. 
+I began my journey into coding with the Arduino [Elegoo Uno R3 Starter Kit](https://www.elegoo.com/blogs/arduino-projects/elegoo-uno-r3-project-the-most-complete-starter-kit-tutorial). This kit gave me the chance to mix coding with electronics, which made learning really fun and exciting. I was able to build cool projects with lights, sensors, and more. That got me super interested, so I started taking Arduino lessons, and soon, I was making things I never thought I could!
 
 Here are some of the projects I have done:
 
@@ -35,12 +33,27 @@ Here are some of the projects I have done:
 ![image_robot]()
 -->
 
+<!--Original Paragraph:-->
+
+<!--
+Armed with the knowledge from Arduino, I built a recycling bin using recycled materials, and Arduino to control a series of flaps powered by Servo Motors, so that the recycling bin is sort and direct materials for recycling to the respective bins with the touch of a button. Each button corresponds to a type of recycable material and is labeled using braille. There is even an Liquid Crystal Display (LCD) to show users what buttons they have pressed and the status of the bins. Additionally, a buzzer helps to tell the visually impaired on what button they have pressed (with the sound of a series of beeps). If the bin is full, a low beep will be sounded.
+-->
+
+Armed with what I learnt from Arduino, I built a smart recycling bin for the visually impaired using recycled materials and electronic components. The bin uses Servo Motors to control a set of flaps that sort and direct items into the correct bins with just the press of a button. Each button is labeled in braille, so it’s accessible to visually impaired users.
+
+I also added a Liquid Crystal Display (LCD) to show what button was pressed and the current status of the bins. To make it even more user-friendly, I included a buzzer that plays different beep patterns: one to confirm the button press and another low beep to alert when a bin is full. This project helped me understand how coding and electronics can work together to solve real-world problems!
+
+This project was submitted to Tan Kah Kee Young Inventor's Award Competition (TKKYIA). Unfortunately, it was not selected for the interview round. Though I was a bit disappointed, I told myself to look at the bright side of things and try to test the recycling bin with visually-impaired users and this may allow them to recycle with ease.
+
+Click the play button for the video presentation for the recycling bin!
+
+<!--
+[![image_recycling]()]()
+-->
+
 ### Python
 
 I first self-learnt Python from two books
-
-* [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) by [Al Sweigart](https://alsweigart.com/)
-* [Python Crash Course](https://nostarch.com/python-crash-course-3rd-edition) by [Eric Matthes](https://ehmatthes.com/)
 
 I then started coding lessons for Python to broaden by Python coding knowledge.
 
@@ -48,6 +61,6 @@ Click [here](https://github.com/tkyaaronRM/projects) for my collection of python
 
 ## My Music Journey
 
-My performance of the Beethoven Spring Sonata:
+My performance of the Beethoven Spring Sonata (press the play button):
 
 [![here](beeth_thumbnail.png)](https://youtu.be/T7e8JDK8MRA)
