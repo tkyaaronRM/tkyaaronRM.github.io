@@ -47,9 +47,7 @@ This project was submitted to Tan Kah Kee Young Inventor's Award Competition (TK
 
 Click the play button for the video presentation for the recycling bin!
 
-<!--
-[![image_recycling]()]()
--->
+[![image_recycling](assets/recycling_thumbnail.png)](https://www.youtube.com/watch?v=84SNMB3cBoc)
 
 ### Python
 
@@ -63,4 +61,4 @@ Click [here](https://github.com/tkyaaronRM/projects) for my collection of python
 
 My performance of the Beethoven Spring Sonata (press the play button):
 
-[![here](beeth_thumbnail.png)](https://youtu.be/T7e8JDK8MRA)
+[![here](assets/beeth_thumbnail.png)](https://youtu.be/T7e8JDK8MRA)
