@@ -5,11 +5,11 @@
 
 My journey into robotics started when I was six years old and got my first [LEGO Mindstorms EV3](https://en.wikipedia.org/wiki/Lego_Mindstorms_EV3) kit. I was amazed that I could build all kinds of models with LEGO pieces and bring them to life controlled by the brick.  As I played and experimented, I started changing parts to create different movements and give each robot its own special job. This hands-on fun sparked my curiosity and became the starting point of my passion for robotics.
 
-When I started taking robotics lessons with the [LEGO SPIKE Prime](https://education.lego.com/en-us/product-resources/spike-prime/troubleshooting/spike-prime-faqs/#:~:text=™%20Prime%20FAQs-,General,to%20becoming%20resilient%2C%20independent%20thinkers)(successor of LEGO Mindstorms EV3), I became even more excited about how sensors could be used to control the robots I built. I also learned how important the design is for making the robot more stable and work better. These lessons made me even more curious and helped grow my love for robotics.
+When I started taking robotics lessons with the [LEGO SPIKE Prime](https://education.lego.com/en-us/product-resources/spike-prime/troubleshooting/spike-prime-faqs/#:~:text=™%20Prime%20FAQs-,General,to%20becoming%20resilient%2C%20independent%20thinkers) (successor of LEGO Mindstorms EV3), I became even more excited about how sensors could be used to control the robots I built. I also learned how important the design is for making the robot more stable and work better. These lessons made me even more curious and helped grow my love for robotics.
 
 My first robotics competition was the [IDE Series](https://ideseries.org/#intro) in 2022, where I took part in the Robotics Category. It was an eye-opening experience and I was amazed to see so many students who shared the same passion for robotics. During the competition, I learned how important teamwork is, as my teammates and I worked closely together to get the best robot run we could. Even though we finished in 7th place, I’m really proud of what we achieved and thankful for everything I learned from the experience.
 
-In 2023, I took part in the National Robotics Competition (NRC), where I was introduced to more detailed task requirements, a larger playing field, and the need to present our learning journey. It was a more demanding competition and required a longer preparation time. My team and I worked closely together, constantly making adjustments to both our robot and our presentation.
+In 2023, I took part in the [National Robotics Competition (NRC)](https://www.science.edu.sg/for-schools/competitions/national-robotics-competition), where I was introduced to more detailed task requirements, a larger playing field, and the need to present our learning journey. It was a more demanding competition and required a longer preparation time. My team and I worked closely together, constantly making adjustments to both our robot and our presentation.
 
 We felt confident on the day of the competition, but unfortunately, our robot didn’t perform as well as it had during practice, possibly due to dust that had built up on the playing field. Although we didn’t make it to the final round, we were thrilled to be awarded 3rd place for Best Presentation and Best Programming. We learned a lot from this experience and promised ourselves we would return in 2024.
 
@@ -19,7 +19,32 @@ Unfortunately, during the final run, a piece of LEGO got stuck under the robot, 
 
 ## My Coding Journey
 
-Click [here](https://github.com/tkyaaronRM/projects) for my collection of coding projects
+### Arduino
+
+I first started with the [Elegoo Uno R3 Kit](https://www.elegoo.com/blogs/arduino-projects/elegoo-uno-r3-project-the-most-complete-starter-kit-tutorial) (a kit with an Arduino Uno R3 Clone) to learn Arduino. After some time, I find that these totorials are a little boring.
+
+Hence, I took lessons on Arduino. After a while, I became even more excited about how many things I can build with a simple microcontroller. 
+
+Here are some of the projects I have done:
+
+<!--
+![image_night_lamp]()
+
+![image_metronome]()
+
+![image_robot]()
+-->
+
+### Python
+
+I first self-learnt Python from two books
+
+* [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) by [Al Sweigart](https://alsweigart.com/)
+* [Python Crash Course](https://nostarch.com/python-crash-course-3rd-edition) by [Eric Matthes](https://ehmatthes.com/)
+
+I then started coding lessons for Python to broaden by Python coding knowledge.
+
+Click [here](https://github.com/tkyaaronRM/projects) for my collection of python projects
 
 ## My Music Journey
 
