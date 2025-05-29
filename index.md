@@ -25,4 +25,4 @@ Click [here](https://github.com/tkyaaronRM/projects) for my collection of coding
 
 My performance of the Beethoven Spring Sonata:
 
-[![here](thumbnail1.jpg)](https://youtu.be/T7e8JDK8MRA)
+[![here](beeth_thumbnail.png)](https://youtu.be/T7e8JDK8MRA)
