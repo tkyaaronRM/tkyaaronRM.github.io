@@ -58,28 +58,28 @@ Here are some of my Coding Projects:
 🎲 Magic 8-Ball: 
 A fun Python script that simulates the classic Magic 8-Ball toy, providing random answers to your yes-or-no questions
 
-🧮 BMI Calculator
+🧮 BMI Calculator:
 An application that calculates Body Mass Index based on user input, helping understand health metrics through code.
 
-☕ Caffeine Tracker
+☕ Caffeine Tracker:
 A program designed to monitor daily caffeine intake, combining health awareness with programming practice.
 
-🔢 Math Quiz Series
+🔢 Math Quiz Series:
 A set of Python scripts generating random math quizzes, enhancing both my math skills and coding logic.
 
-🛒 Shopping App
+🛒 Shopping App:
 A simple application that simulates a shopping experience, introducing concepts of item selection and budgeting.
 
-🎮 Python RPG
+🎮 Python RPG:
 An early attempt at creating a text-based role-playing game, exploring storytelling and user interaction through code.
 
-🏫 School Database
+🏫 School Database:
 A project aimed at managing student records, grades, and attendance, delving into data handling and storage.
 
-🚗 Robot Car Design
+🚗 Robot Car Design:
 A conceptual design document for a robot car, merging interests in robotics and programming.
 
-📱 WhatsApp Clone
+📱 WhatsApp Clone:
 An endeavor to recreate basic messaging functionalities, understanding communication protocols and user interfaces.
 
 
