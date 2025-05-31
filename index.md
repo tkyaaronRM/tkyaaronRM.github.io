@@ -21,7 +21,7 @@ Unfortunately, during the final run, a piece of LEGO got stuck under the robot, 
 
 ### Arduino
 
-I began my journey into coding with the Arduino [Elegoo Uno R3 Starter Kit](https://www.elegoo.com/blogs/arduino-projects/elegoo-uno-r3-project-the-most-complete-starter-kit-tutorial). This kit gave me the chance to mix coding with electronics, which made learning really fun and exciting. I was able to build cool projects with lights, sensors, and more. That got me super interested, so I started taking Arduino lessons, and soon, I was making things I never thought I could!
+I began my journey into coding with C++ through the Arduino [Elegoo Uno R3 Starter Kit](https://www.elegoo.com/blogs/arduino-projects/elegoo-uno-r3-project-the-most-complete-starter-kit-tutorial). This kit gave me the chance to mix coding with electronics, which made learning really fun and exciting. I was able to build cool projects with lights, sensors, and more. That got me super interested, so I started taking Arduino lessons, and soon, I was making things I never thought I could!
 
 Here are some of the projects I have done:
 
@@ -51,9 +51,38 @@ Click the play button for the video presentation for the recycling bin!
 
 ### Python
 
-I first self-learnt Python from two books
+Form the begining of my coding in C++, I soon ventured into Python. Driven by curiosity, I started teaching myself Python by reading books. As I learned more, I realized how much I could achieve with Python, from building apps to automating tasks. To deepen my understanding, I attended Python coding lessons and expanded my skills. Python opened up a whole new world of possibilities for me!
 
-I then started coding lessons for Python to broaden by Python coding knowledge.
+Here are some of my Coding Projects:
+
+🎲 Magic 8-Ball: 
+A fun Python script that simulates the classic Magic 8-Ball toy, providing random answers to your yes-or-no questions
+
+🧮 BMI Calculator
+An application that calculates Body Mass Index based on user input, helping understand health metrics through code.
+
+☕ Caffeine Tracker
+A program designed to monitor daily caffeine intake, combining health awareness with programming practice.
+
+🔢 Math Quiz Series
+A set of Python scripts generating random math quizzes, enhancing both my math skills and coding logic.
+
+🛒 Shopping App
+A simple application that simulates a shopping experience, introducing concepts of item selection and budgeting.
+
+🎮 Python RPG
+An early attempt at creating a text-based role-playing game, exploring storytelling and user interaction through code.
+
+🏫 School Database
+A project aimed at managing student records, grades, and attendance, delving into data handling and storage.
+
+🚗 Robot Car Design
+A conceptual design document for a robot car, merging interests in robotics and programming.
+
+📱 WhatsApp Clone
+An endeavor to recreate basic messaging functionalities, understanding communication protocols and user interfaces.
+
+
 
 Click [here](https://github.com/tkyaaronRM/projects) for my collection of python projects
 
