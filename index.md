@@ -19,7 +19,7 @@ Unfortunately, during the final run, a piece of LEGO got stuck under the robot, 
 
 ## My Coding Journey
 
-### Arduino
+### C++ with Arduino
 
 I began my journey into coding with C++ through the Arduino [Elegoo Uno R3 Starter Kit](https://www.elegoo.com/blogs/arduino-projects/elegoo-uno-r3-project-the-most-complete-starter-kit-tutorial). This kit gave me the chance to mix coding with electronics, which made learning really fun and exciting. I was able to build cool projects with lights, sensors, and more. That got me super interested, so I started taking Arduino lessons, and soon, I was making things I never thought I could!
 
