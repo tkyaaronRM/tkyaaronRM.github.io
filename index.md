@@ -90,7 +90,7 @@ Click [here](https://github.com/tkyaaronRM/projects) for my collection of python
 
 ### Musical Beginings
 
-My musical path began at the tender age of five, when I first laid my hands on the piano. Just a year later, I picked up the violin—and quickly developed a deep passion for both instruments. This early introduction to music laid the foundation for what has become a meaningful and exciting journey of musical growth.
+My musical journey began when I was four and a half, with my first piano lessons. Learning the piano at such a young age gave me a strong foundation in music, helping me develop a good sense of rhythm, pitch, and coordination. It also taught me important skills like sight-reading and finger dexterity, which became really useful when I started learning other instruments—especially the violin. Just a year later, I picked up the violin and quickly discovered a deep passion for both instruments. Starting music so early has shaped a journey that’s been both exciting and meaningful, and it continues to be a big part of who I am today.
 
 ### Achievements and Recognition
 
