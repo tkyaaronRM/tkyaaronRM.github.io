@@ -51,7 +51,8 @@ Click the play button for the video presentation for the recycling bin!
 
 ### Python
 
-Form the begining of my coding in C++, I soon ventured into Python. Driven by curiosity, I started teaching myself Python by reading books. As I learned more, I realized how much I could achieve with Python, from building apps to automating tasks. To deepen my understanding, I attended Python coding lessons and expanded my skills. Python opened up a whole new world of possibilities for me!
+After starting my coding journey with C++, I soon became curious about Python. Driven by that curiosity, I began teaching myself by reading books and experimenting with simple projects. As I learned more, I discovered how powerful and versatile Python is—from building apps to automating everyday tasks. To deepen my understanding, I enrolled in Python coding lessons and continued expanding my skills. Learning Python has opened up a whole new world of possibilities for me, and I’m excited to keep exploring where it can take me!
+
 
 Here are some of my Coding Projects:
 
