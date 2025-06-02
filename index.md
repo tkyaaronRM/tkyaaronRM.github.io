@@ -88,9 +88,9 @@ Click [here](https://github.com/tkyaaronRM/projects) for my collection of python
 
 ## My Music Journey
 
-### Musical Beginings
+### Musical Beginnings
 
-My musical journey began when I was four and a half, with my first piano lessons. Learning the piano at such a young age gave me a strong foundation in music, helping me develop a good sense of rhythm, pitch, and coordination. It also taught me important skills like sight-reading and finger dexterity, which became really useful when I started learning other instruments—especially the violin. Just a year later, I picked up the violin and quickly discovered a deep passion for both instruments. Starting music so early has shaped a journey that’s been both exciting and meaningful, and it continues to be a big part of who I am today.
+My musical journey began when I was four and a half, with my first piano lessons. Learning the piano at such a young age gave me a strong foundation in music, helping me develop a good sense of rhythm, pitch, and coordination. It also taught me important skills like sight-reading and finger dexterity, which became really useful when I started learning other instruments - especially the violin. Just a year later, I picked up the violin and quickly discovered a deep passion for both instruments. Starting music so early has shaped a journey that’s been both exciting and meaningful, and it continues to be a big part of who I am today.
 
 ### Achievements and Recognition
 
@@ -108,27 +108,20 @@ I love performing with like-minded friends and have taken part in many public re
 
 Recently, I started exploring chamber music and had my first public performance in January 2025, where I played the first movement of the Borodin String Quartet. It was a wonderful experience, and I was fascinated by how four different instruments, each playing its own part, could come together to create such beautiful, harmonious music.
 
-I’m also currently working with Alexandra Hospital to organise a performance in July 2025 for the staff and patients. The program will include a mix of solo and chamber pieces, featuring both classical works and some familiar, well-loved tunes. I would like to bring music to the elderly os
+I’m also currently working with Alexandra Hospital to organise a performance in July 2025 for the staff and patients. The program will include a mix of solo and chamber pieces, featuring both classical works and some familiar, well-loved tunes. 
 
 ### String Ensemble
 
-I was first accepted into the NYPS String Ensemble through an audition when I was in Primary One (2020). However, due to COVID-19, all activities for lower primary students were put on hold. I rejoined in Primary Three (2022), this time as part of the Senior String Ensemble in the First Violin section. That same year, we performed at the Singapore Youth Festival (SYF) Arts Presentation.
+I was first accepted into the NYPS Senior String Ensemble through an audition when I was in Primary One (2020). However, due to COVID-19, all activities for lower primary students were put on hold. I rejoined in Primary Three (2022) and was honoured to be part of the Senior Ensemble, First Violin section. That same year, we performed at the Singapore Youth Festival (SYF) Arts Presentation.
 
-Being part of the String Ensemble taught me how to play as a team, not just as a soloist. I learned the importance of listening carefully, coordinating with my teammates, and following the conductor. In 2024, I performed at the SYF Arts Presentation again, and we were proud to achieve a Certificate of Distinction for our performance.
+Being part of the String Ensemble taught me how important teamwork is — how to play as part of a group, not just as a soloist. I learned to listen closely, coordinate with my teammates, and follow the conductor’s lead. In 2024, I had the chance to perform with the ensemble at the SYF Arts Presentation again, and we were proud to receive a Certificate of Distinction for our performance.
 
-In 2024, I was given the role of Assistant CCA Leader of the String Ensemble, and in 2025, I was honoured to become the CCA Leader and Concertmaster. I'm grateful for the opportunity to serve in a leadership position in the music domain. Through this role, I’ve learned how to guide my teammates, support them, and encourage everyone to give their very best.
+In 2024, I was appointed Assistant CCA Leader of the String Ensemble, and in 2025, I was honored to take on the role of CCA Leader and Concertmaster. I’m truly grateful for the opportunity to lead and contribute more meaningfully to the ensemble. This experience has taught me how to guide my peers with confidence, support them through challenges, and inspire everyone to give their best, both in rehearsals and on stage.
+
 
 ### Future Aspirations
 
-<!--
-I would like to continue playing music with an ensemble or orchestra, and to keep exploring new boundaries through chamber music. More importantly, I hope to share my music and bring joy to the community—especially to patients who are confined in hospitals due to illnesses. Through the power of live music and its ability to lift the spirit, I hope to support and enhance the healing process in a meaningful way.
--->
-
-<!--
-I hope to keep growing as a musician by playing in an ensemble or orchestra, and by exploring new challenges through chamber music. More importantly, I want to share my music with others and bring joy to the community, especially to patients who are in hospitals because of illness. I believe live music has the power to comfort, uplift, and heal, and I hope to use that power to make a positive difference in people’s lives.
--->
-
-I hope to keep growing as a musician by collaborating with other like-minded musicians in ensembles or orchestras and by taking on new challenges through chamber music. More importantly, I want to share my music with others and bring joy to the community, especially to patients in hospitals who are facing illness. I believe live music has the power to comfort, uplift, and heal, and I hope to use that power to make a meaningful difference in people’s lives.
+I hope to continue growing as a musician by collaborating with like-minded peers in ensembles and orchestras, and by embracing new challenges through chamber music. More importantly, I want to share my music with others and bring joy to the community, especially to patients in hospitals who are going through difficult times. I believe that live music has the power to comfort, uplift, and heal, and I hope to use that power to make a meaningful difference in people’s lives.
 
 My performance of the Beethoven Spring Sonata (press the play button):
 
