@@ -88,6 +88,22 @@ Click [here](https://github.com/tkyaaronRM/projects) for my collection of python
 
 ## My Music Journey
 
+### Musical Beginings
+
+My musical path began at the tender age of five, when I first laid my hands on the piano. Just a year later, I picked up the violin—and quickly developed a deep passion for both instruments. This early introduction to music laid the foundation for what has become a meaningful and exciting journey of musical growth.
+
+### Achievements and Recognition
+
+By the age of nine, I achieved the prestigious ABRSM Grade 8 Merit in Violin, followed by a Grade 8 Distinction in Piano at just ten. These accomplishments paved the way for my active involvement in music competitions and earned me a place in my school’s String Ensemble. 
+
+I started joining music competitions when I was really young, and one of my earliest achievements was winning a Gold Award at the Asia Music Festival when I was just six. At eight, I took part in the Mandeville Music Awards and won Gold Awards for both Violin and Piano, plus a special Double Commendation Award.
+
+In 2024, I was proud to receive Gold Awards at both the Singapore Raffles Music Festival and the SMTA Performers' Festival & Chamber Music Competition. I’ve also had the chance to take part in some international competitions. In 2024, I won First Prize in the International Music Competition Oxford “Grand Prize Virtuoso” (Junior Category), and in 2025, I received First Prize in the American Protégé International Piano & Strings Competition. I was also awarded Second Prize in The New York Classical Music Competition for Violin (Young Performers II category), and no First Prize was given in that category that year.
+
+
+
+
+
 My performance of the Beethoven Spring Sonata (press the play button):
 
 [![here](assets/beeth_thumbnail.png)](https://youtu.be/T7e8JDK8MRA)
