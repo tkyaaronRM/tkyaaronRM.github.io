@@ -100,7 +100,7 @@ I started entering competitions at a young age. One of my earliest memories is w
 
 In 2024, I was honored to receive Gold Awards at both the Singapore Raffles Music Festival and the SMTA Performers' Festival & Chamber Music Competition. I also had the exciting opportunity to compete internationally. That same year, I won First Prize in the International Music Competition Oxford “Grand Prize Virtuoso” (Junior Category). In 2025, I was awarded First Prize in the American Protégé International Piano & Strings Competition and received Second Prize in The New York Classical Music Competition for Violin (Young Performers II category)—where no First Prize was awarded that year.
 
-In addition to practicing my instruments, I also chose to explore music theory in more depth. Learning theory helped me move beyond just playing the notes—it gave me a better understanding of how music is structured and how composers express ideas. This deeper insight has allowed me to interpret pieces more thoughtfully and appreciate the finer details of music-making. Together, my practical training and theoretical study have helped me grow into a more well-rounded and expressive musician.
+In addition to practicing my instruments, I also chose to explore music theory in greater depth. Learning theory helped me move beyond just playing the notes—it gave me a better understanding of how music is structured and how composers express ideas. This deeper insight has allowed me to interpret pieces more thoughtfully and appreciate the finer details of music-making. Together, my practical training and theoretical study have helped me grow into a more well-rounded and expressive musician.
 
 
 
