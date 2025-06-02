@@ -100,16 +100,15 @@ I started entering competitions at a young age. One of my earliest memories is w
 
 In 2024, I was honored to receive Gold Awards at both the Singapore Raffles Music Festival and the SMTA Performers' Festival & Chamber Music Competition. I also had the exciting opportunity to compete internationally. That same year, I won First Prize in the International Music Competition Oxford “Grand Prize Virtuoso” (Junior Category). In 2025, I was awarded First Prize in the American Protégé International Piano & Strings Competition and received Second Prize in The New York Classical Music Competition for Violin (Young Performers II category)—where no First Prize was awarded that year.
 
-In addition to practicing my instruments, I also chose to explore music theory in greater depth. Learning theory helped me move beyond just playing the notes—it gave me a better understanding of how music is structured and how composers express ideas. This deeper insight has allowed me to interpret pieces more thoughtfully and appreciate the finer details of music-making. Together, my practical training and theoretical study have helped me grow into a more well-rounded and expressive musician.
-
-
+In addition to practicing my instruments, I also chose to explore music theory in greater depth. Learning theory helped me understand how music works beyond just playing the notes. It gave me a clearer idea of how pieces are put together and allowed me to interprete music more thoughtfully. Together, my practical training and theoretical study have helped me grow into a more well-rounded and expressive musician.
 
 ### Highlights of Performances
+
 I love performing with like-minded friends and have taken part in many public recitals, sharing my music with different audiences. One of my most memorable performances was at the Bach in the Subway event, where I played a piano solo and also performed the Bach Double Concerto with a mini-ensemble.
 
 Recently, I started exploring chamber music and had my first public performance in January 2025, where I played the first movement of the Borodin String Quartet. It was a wonderful experience, and I was fascinated by how four different instruments, each playing its own part, could come together to create such beautiful, harmonious music.
 
-I’m also currently working with Alexandra Hospital to organise a performance in July 2025 for the staff and patients. The program will include a mix of solo and chamber pieces, featuring both classical works and some familiar, well-loved tunes.
+I’m also currently working with Alexandra Hospital to organise a performance in July 2025 for the staff and patients. The program will include a mix of solo and chamber pieces, featuring both classical works and some familiar, well-loved tunes. I would like to bring music to the elderly os
 
 ### String Ensemble
 
@@ -121,15 +120,15 @@ In 2024, I was given the role of Assistant CCA Leader of the String Ensemble, an
 
 ### Future Aspirations
 
-I would like to continue playing music with an ensemble or orchestra, and to keep exploring new boundaries through chamber music. More importantly, I hope to share my music and bring joy to the community—especially to patients who are confined in hospitals due to illness. Through the power of live music and its ability to lift the spirit, I hope to support and enhance the healing process in a meaningful way.
+<!--
+I would like to continue playing music with an ensemble or orchestra, and to keep exploring new boundaries through chamber music. More importantly, I hope to share my music and bring joy to the community—especially to patients who are confined in hospitals due to illnesses. Through the power of live music and its ability to lift the spirit, I hope to support and enhance the healing process in a meaningful way.
+-->
 
+<!--
+I hope to keep growing as a musician by playing in an ensemble or orchestra, and by exploring new challenges through chamber music. More importantly, I want to share my music with others and bring joy to the community, especially to patients who are in hospitals because of illness. I believe live music has the power to comfort, uplift, and heal, and I hope to use that power to make a positive difference in people’s lives.
+-->
 
-
-
-
-
-
-
+I hope to keep growing as a musician by collaborating with other like-minded musicians in ensembles or orchestras and by taking on new challenges through chamber music. More importantly, I want to share my music with others and bring joy to the community, especially to patients in hospitals who are facing illness. I believe live music has the power to comfort, uplift, and heal, and I hope to use that power to make a meaningful difference in people’s lives.
 
 My performance of the Beethoven Spring Sonata (press the play button):
 
