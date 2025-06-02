@@ -100,6 +100,29 @@ I started joining music competitions when I was really young, and one of my earl
 
 In 2024, I was proud to receive Gold Awards at both the Singapore Raffles Music Festival and the SMTA Performers' Festival & Chamber Music Competition. I’ve also had the chance to take part in some international competitions. In 2024, I won First Prize in the International Music Competition Oxford “Grand Prize Virtuoso” (Junior Category), and in 2025, I received First Prize in the American Protégé International Piano & Strings Competition. I was also awarded Second Prize in The New York Classical Music Competition for Violin (Young Performers II category), and no First Prize was given in that category that year.
 
+### Highlights of Performances
+I love performing with like-minded friends and have taken part in many public recitals, sharing my music with different audiences. One of my most memorable performances was at the Bach in the Subway event, where I played a piano solo and also performed the Bach Double Concerto with a mini-ensemble.
+
+Recently, I started exploring chamber music and had my first public performance in January 2025, where I played the first movement of the Borodin String Quartet. It was a wonderful experience, and I was fascinated by how four different instruments, each playing its own part, could come together to create such beautiful, harmonious music.
+
+I’m also currently working with Alexandra Hospital to organise a performance in July 2025 for the staff and patients. The program will include a mix of solo and chamber pieces, featuring both classical works and some familiar, well-loved tunes.
+
+### String Ensemble
+
+I was first accepted into the NYPS String Ensemble through an audition when I was in Primary One (2020). However, due to COVID-19, all activities for lower primary students were put on hold. I rejoined in Primary Three (2022), this time as part of the Senior String Ensemble in the First Violin section. That same year, we performed at the Singapore Youth Festival (SYF) Arts Presentation.
+
+Being part of the String Ensemble taught me how to play as a team, not just as a soloist. I learned the importance of listening carefully, coordinating with my teammates, and following the conductor. In 2024, I performed at the SYF Arts Presentation again, and we were proud to achieve a Certificate of Distinction for our performance.
+
+In 2024, I was given the role of Assistant CCA Leader of the String Ensemble, and in 2025, I was honoured to become the CCA Leader and Concertmaster. I'm grateful for the opportunity to serve in a leadership position in the music domain. Through this role, I’ve learned how to guide my teammates, support them, and encourage everyone to give their very best.
+
+### Future Aspirations
+
+I would like to continue playing music with an ensemble or orchestra, and to keep exploring new boundaries through chamber music. More importantly, I hope to share my music and bring joy to the community—especially to patients who are confined in hospitals due to illness. Through the power of live music and its ability to lift the spirit, I hope to support and enhance the healing process in a meaningful way.
+
+
+
+
+
 
 
 
