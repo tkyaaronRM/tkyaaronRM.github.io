@@ -94,11 +94,15 @@ My musical journey began when I was four and a half, with my first piano lessons
 
 ### Achievements and Recognition
 
-By the age of nine, I achieved the prestigious ABRSM Grade 8 Merit in Violin, followed by a Grade 8 Distinction in Piano at just ten. These accomplishments paved the way for my active involvement in music competitions and earned me a place in my school’s String Ensemble. 
+By the time I was nine, I had achieved an ABRSM Grade 8 Merit in Violin, followed by a Grade 8 Distinction in Piano at age ten. When I was eleven, I earned the Associate of Trinity College London (ATCL) Diploma in Violin Performance. These milestones opened up more opportunities for me, including participating in music competitions and becoming a member of my school’s String Ensemble.
 
-I started joining music competitions when I was really young, and one of my earliest achievements was winning a Gold Award at the Asia Music Festival when I was just six. At eight, I took part in the Mandeville Music Awards and won Gold Awards for both Violin and Piano, plus a special Double Commendation Award.
+I started entering competitions at a young age. One of my earliest memories is winning a Gold Award at the Asia Music Festival when I was just six years old. At eight, I competed in the Mandeville Music Awards and was proud to receive Gold Awards in both Violin and Piano, along with a special Double Commendation Award.
 
-In 2024, I was proud to receive Gold Awards at both the Singapore Raffles Music Festival and the SMTA Performers' Festival & Chamber Music Competition. I’ve also had the chance to take part in some international competitions. In 2024, I won First Prize in the International Music Competition Oxford “Grand Prize Virtuoso” (Junior Category), and in 2025, I received First Prize in the American Protégé International Piano & Strings Competition. I was also awarded Second Prize in The New York Classical Music Competition for Violin (Young Performers II category), and no First Prize was given in that category that year.
+In 2024, I was honored to receive Gold Awards at both the Singapore Raffles Music Festival and the SMTA Performers' Festival & Chamber Music Competition. I also had the exciting opportunity to compete internationally. That same year, I won First Prize in the International Music Competition Oxford “Grand Prize Virtuoso” (Junior Category). In 2025, I was awarded First Prize in the American Protégé International Piano & Strings Competition and received Second Prize in The New York Classical Music Competition for Violin (Young Performers II category)—where no First Prize was awarded that year.
+
+In addition to practicing my instruments, I also chose to explore music theory in more depth. Learning theory helped me move beyond just playing the notes—it gave me a better understanding of how music is structured and how composers express ideas. This deeper insight has allowed me to interpret pieces more thoughtfully and appreciate the finer details of music-making. Together, my practical training and theoretical study have helped me grow into a more well-rounded and expressive musician.
+
+
 
 ### Highlights of Performances
 I love performing with like-minded friends and have taken part in many public recitals, sharing my music with different audiences. One of my most memorable performances was at the Bach in the Subway event, where I played a piano solo and also performed the Bach Double Concerto with a mini-ensemble.
