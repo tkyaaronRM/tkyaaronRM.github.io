@@ -126,6 +126,8 @@ I love performing with like-minded friends and have taken part in many public re
 
 Recently, I started exploring chamber music and had my first public performance in January 2025, where I played the first movement of the Borodin String Quartet. It was a wonderful experience, and I was fascinated by how four different instruments, each playing its own part, could come together to create such beautiful, harmonious music.
 
+![imasge](assets/Quartet.jpeg)
+
 I’m also currently working with Alexandra Hospital to organise a performance in July 2025 for the staff and patients. The program will include a mix of solo and chamber pieces, featuring both classical works and some familiar, well-loved tunes. 
 
 ### String Ensemble
