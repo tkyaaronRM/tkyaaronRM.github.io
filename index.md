@@ -18,7 +18,9 @@ We felt confident on the day of the competition, but unfortunately, our robot di
 
 For NRC 2024, the theme was water conservation, and we started preparing early. We made great progress with both our robot and our presentation. We also spent more time researching how to conserve water and learned many ways to help protect this precious resource. Using what we learned from 2023, we improved the robot’s stability and traction, which helped us perform well and reach the final round.
 
-![imasge](assets/IMG_4015.jpg)
+![imasge](assets/IMG_4015.jpg) 
+![imasge](assets/IMG_4033.jpg)
+
 Unfortunately, during the final run, a piece of LEGO got stuck under the robot, stopping it from completing the task. While we were disappointed, we understood that unexpected issues can happen and that the best way forward is to learn from them. Despite the setback, we were proud to be awarded 3rd place once again for our Learning Journey presentation.
 
 ## My Coding Journey
