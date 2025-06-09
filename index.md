@@ -12,6 +12,9 @@ When I started taking robotics lessons with the [LEGO SPIKE Prime](https://educa
 
 My first robotics competition was the [IDE Series](https://ideseries.org/#intro) in 2023, where I took part in the Robotics Category. It was an eye-opening experience and I was amazed to see so many students who shared the same passion for robotics. During the competition, I learned how important teamwork is, as my teammates and I worked closely together to get the best robot run we could. Even though we finished in 7th place, I’m really proud of what we achieved and thankful for everything I learned from the experience.
 
+
+![imasge](assets/IMG_5223.jpg) 
+
 In 2023, I took part in the [National Robotics Competition (NRC)](https://www.science.edu.sg/for-schools/competitions/national-robotics-competition), where I was introduced to more detailed task requirements, a larger playing field, and the need to present our learning journey. It was a more demanding competition and required a longer preparation time. My team and I worked closely together, constantly making adjustments to both our robot and our presentation.
 
 We felt confident on the day of the competition, but unfortunately, our robot didn’t perform as well as it had during practice, possibly due to dust that had built up on the playing field. Although we didn’t make it to the final round, we were thrilled to be awarded 3rd place for Best Presentation and Best Programming. We learned a lot from this experience and promised ourselves we would return in 2024.
