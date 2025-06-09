@@ -104,12 +104,13 @@ I started entering competitions at a young age. One of my earliest memories is w
 
 In 2024, I was honored to receive Gold Awards at both the Singapore Raffles Music Festival and the SMTA Performers' Festival & Chamber Music Competition. I also had the exciting opportunity to compete internationally. That same year, I won First Prize in the International Music Competition Oxford “Grand Prize Virtuoso” (Junior Category). In 2025, I was awarded First Prize in the American Protégé International Piano & Strings Competition and received Second Prize in The New York Classical Music Competition for Violin (Young Performers II category)—where no First Prize was awarded that year.
 
+![imasge](assets/IMG_3785.jpg))
+
 In addition to practicing my instruments, I chose to explore music theory in greater depth. I took formal lessons in both theory and composition, and eventually achieved ABRSM Grade 6 Music Theory with Merit. Studying theory helped me understand how music works beyond just playing the notes—it gave me insight into how pieces are structured and how composers express their ideas. This deeper understanding has allowed me to interpret music more thoughtfully. Together, my practical training and theoretical studies have shaped me into a more well-rounded and expressive musician.
 
 ### Highlights of Performances
 
 I love performing with like-minded friends and have taken part in many public recitals, sharing my music with different audiences. One of my most memorable performances was at the Bach in the Subway event, where I played a piano solo and also performed the Bach Double Concerto with a mini-ensemble.
-
 
 ![imasge](assets/IMG_4869.jpg)
 
