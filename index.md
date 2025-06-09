@@ -15,7 +15,7 @@ My first robotics competition was the [IDE Series](https://ideseries.org/#intro)
 
 
 ![imasge](assets/IMG_5223.jpg) 
-Receiving my 7th position certificate at the IDE 2023
+Receiving my 7th position certificate at the IDE 2023.
 
 In 2023, I took part in the [National Robotics Competition (NRC)](https://www.science.edu.sg/for-schools/competitions/national-robotics-competition), where I was introduced to more detailed task requirements, a larger playing field, and the need to present our learning journey. It was a more demanding competition and required a longer preparation time. My team and I worked closely together, constantly making adjustments to both our robot and our presentation.
 
@@ -29,7 +29,7 @@ For NRC 2024, the theme was water conservation, and we started preparing early. 
 
 Unfortunately, during the final run, a piece of LEGO got stuck under the robot, stopping it from completing the task. While we were disappointed, we understood that unexpected issues can happen and that the best way forward is to learn from them. Despite the setback, we were proud to be awarded 3rd place once again for our Learning Journey presentation.
 
-![imasge](assets/IMG_4033.jpg) My team, 3rd place for our Learning Journey Presentation.
+![imasge](assets/IMG_4033.jpg) My team, 3rd for Learning Journey Presentation.
 
 ## My Coding Journey
 
@@ -40,22 +40,15 @@ I began my journey into coding with C++ through the Arduino [Elegoo Uno R3 Start
 Here are some of the projects I have done:
 
 ![imasge](assets/IMG_7945.jpg) 
-
 A night lamp that changes colours.
 
 ![imasge](assets/IMG_7937.jpg) 
-
-A digital metronome with adjustable temp which is perfect for my music practices.
+A digital metronome with adjustable tempo, perfect for music practices.
 
 ![imasge](assets/IMG_7971.jpg) 
-
 A robot car that avoids obstacles.
 
 <!--Original Paragraph:-->
-
-<!--
-Armed with the knowledge from Arduino, I built a recycling bin using recycled materials, and Arduino to control a series of flaps powered by Servo Motors, so that the recycling bin is sort and direct materials for recycling to the respective bins with the touch of a button. Each button corresponds to a type of recycable material and is labeled using braille. There is even an Liquid Crystal Display (LCD) to show users what buttons they have pressed and the status of the bins. Additionally, a buzzer helps to tell the visually impaired on what button they have pressed (with the sound of a series of beeps). If the bin is full, a low beep will be sounded.
--->
 
 Armed with what I learnt from Arduino, I built a smart recycling bin for the visually impaired using recycled materials and electronic components. The bin uses Servo Motors to control a set of flaps that sort and direct items into the correct bins with just the press of a button. Each button is labeled in braille, so it’s accessible to visually impaired users.
 
