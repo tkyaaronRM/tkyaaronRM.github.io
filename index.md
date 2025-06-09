@@ -16,6 +16,8 @@ In 2023, I took part in the [National Robotics Competition (NRC)](https://www.sc
 
 We felt confident on the day of the competition, but unfortunately, our robot didn’t perform as well as it had during practice, possibly due to dust that had built up on the playing field. Although we didn’t make it to the final round, we were thrilled to be awarded 3rd place for Best Presentation and Best Programming. We learned a lot from this experience and promised ourselves we would return in 2024.
 
+
+
 For NRC 2024, the theme was water conservation, and we started preparing early. We made great progress with both our robot and our presentation. We also spent more time researching how to conserve water and learned many ways to help protect this precious resource. Using what we learned from 2023, we improved the robot’s stability and traction, which helped us perform well and reach the final round.
 
 ![imasge](assets/IMG_4015.jpg) 
