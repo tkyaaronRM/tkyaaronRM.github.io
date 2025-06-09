@@ -117,6 +117,8 @@ In addition to practicing my instruments, I chose to explore music theory in gre
 
 I love performing with like-minded friends and have taken part in many public recitals, sharing my music with different audiences. One of my most memorable performances was at the Bach in the Subway event, where I played a piano solo and also performed the Bach Double Concerto with a mini-ensemble.
 
+
+![imasge](assets/IMG_8129.PNG)
 ![imasge](assets/IMG_4869.jpg)
 
 Recently, I started exploring chamber music and had my first public performance in January 2025, where I played the first movement of the Borodin String Quartet. It was a wonderful experience, and I was fascinated by how four different instruments, each playing its own part, could come together to create such beautiful, harmonious music.
