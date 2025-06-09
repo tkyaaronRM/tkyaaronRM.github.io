@@ -36,13 +36,11 @@ I began my journey into coding with C++ through the Arduino [Elegoo Uno R3 Start
 
 Here are some of the projects I have done:
 
-<!--
-![image_night_lamp]()
+![imasge](assets/IMG_7945.jpg) 
 
-![image_metronome]()
+![imasge](assets/IMG_7937.jpg) 
 
-![image_robot]()
--->
+![imasge](assets/IMG_7971.jpg) 
 
 <!--Original Paragraph:-->
 
