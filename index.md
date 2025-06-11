@@ -122,7 +122,7 @@ I love performing with like-minded friends and have taken part in many public re
 
 
 ![imasge](assets/IMG_8129.PNG)
-![imasge](assets/IMG_4869.jpg)
+![imasge](assets/IMG_4869.jpg) Performing at the Bach in the Subway
 
 Recently, I started exploring chamber music and had my first public performance in January 2025, where I played the first movement of the Borodin String Quartet. It was a wonderful experience, and I was fascinated by how four different instruments, each playing its own part, could come together to create such beautiful, harmonious music.
 
