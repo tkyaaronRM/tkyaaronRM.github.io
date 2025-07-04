@@ -1,5 +1,7 @@
 ## My Robotic Journey
 
+---
+
 <!--This automatically creates a line below ## Header-->
 <!--This is a comment-->
 
@@ -35,6 +37,8 @@ Unfortunately, during the final run, a piece of LEGO got stuck under the robot, 
 
 ## My Coding Journey
 
+---
+
 ### C++ with Arduino
 
 I began my journey into coding with C++ through the Arduino [Elegoo Uno R3 Starter Kit](https://www.elegoo.com/blogs/arduino-projects/elegoo-uno-r3-project-the-most-complete-starter-kit-tutorial). This kit gave me the chance to mix coding with electronics, which made learning really fun and exciting. I was able to build cool projects with lights, sensors, and more. That got me super interested, so I started taking Arduino lessons, and soon, I was making things I never thought I could!
@@ -42,13 +46,16 @@ I began my journey into coding with C++ through the Arduino [Elegoo Uno R3 Start
 Here are some of the projects I have done:
 
 ![imasge](assets/IMG_7945.jpg) 
-A night lamp that changes colours.
+
+*A night lamp that changes colours.*
 
 ![imasge](assets/IMG_7937.jpg) 
-A digital metronome with adjustable tempo, perfect for music practices.
+
+*A digital metronome with adjustable tempo, perfect for music practices.*
 
 ![imasge](assets/IMG_7971.jpg) 
-A robot car that avoids obstacles.
+
+*A robot car that avoids obstacles.*
 
 <!--Original Paragraph:-->
 
@@ -66,41 +73,40 @@ Click the play button for the video presentation for the recycling bin!
 
 After starting my coding journey with C++, I soon became curious about Python. Driven by that curiosity, I began teaching myself by reading books and experimenting with simple projects. As I learned more, I discovered how powerful and versatile Python is—from building apps to automating everyday tasks. To deepen my understanding, I enrolled in Python coding lessons and continued expanding my skills. Learning Python has opened up a whole new world of possibilities for me, and I’m excited to keep exploring where it can take me!
 
-
 Here are some of my Coding Projects:
 
-🎲 Magic 8-Ball: 
+**🎲 Magic 8-Ball**
 A fun Python script that simulates the classic Magic 8-Ball toy, providing random answers to your yes-or-no questions
 
-🧮 BMI Calculator:
+**🧮 BMI Calculator**
 An application that calculates Body Mass Index based on user input, helping understand health metrics through code.
 
-☕ Caffeine Tracker:
+**☕ Caffeine Intake Tracker**
 A program designed to monitor daily caffeine intake, combining health awareness with programming practice.
 
-🔢 Math Quiz Series:
+**🔢 Math Quiz Series**
 A set of Python scripts generating random math quizzes, enhancing both my math skills and coding logic.
 
-🛒 Shopping App:
+**🛒 Shopping App**
 A simple application that simulates a shopping experience, introducing concepts of item selection and budgeting.
 
-🎮 Python RPG:
+**🎮 Python RPG**
 An early attempt at creating a text-based role-playing game, exploring storytelling and user interaction through code.
 
-🏫 School Database:
+**🏫 School Database**
 A project aimed at managing student records, grades, and attendance, delving into data handling and storage.
 
-🚗 Robot Car Design:
+**🚗 Robot Car Design**
 A conceptual design document for a robot car, merging interests in robotics and programming.
 
-📱 WhatsApp Clone:
+**📱 WhatsApp Clone**
 An endeavor to recreate basic messaging functionalities, understanding communication protocols and user interfaces.
-
-
 
 Click [here](https://github.com/tkyaaronRM/projects) for my collection of python projects
 
 ## My Music Journey
+
+---
 
 ### Musical Beginnings
 
@@ -124,7 +130,10 @@ I love performing with like-minded friends and have taken part in many public re
 
 
 ![imasge](assets/IMG_8129.PNG)
-![imasge](assets/IMG_4869.jpg) Performing at the Bach in the Subway
+
+![imasge](assets/IMG_4869.jpg) 
+
+*Performing at the Bach in the Subway*
 
 Recently, I started exploring chamber music and had my first public performance in January 2025, where I played the first movement of the Borodin String Quartet. It was a wonderful experience, and I was fascinated by how four different instruments, each playing its own part, could come together to create such beautiful, harmonious music.
 
