@@ -76,7 +76,7 @@ After starting my coding journey with C++, I soon became curious about Python. D
 Here are some of my Coding Projects:
 
 **🎲 Magic 8-Ball**
-A fun Python script that simulates the classic Magic 8-Ball toy, providing random answers to your yes-or-no questions
+A fun micro:bit script that simulates the classic Magic 8-Ball toy, providing random answers to your yes-or-no questions
 
 **🧮 BMI Calculator**
 An application that calculates Body Mass Index based on user input, helping understand health metrics through code.
@@ -84,8 +84,8 @@ An application that calculates Body Mass Index based on user input, helping unde
 **☕ Caffeine Intake Tracker**
 A program designed to monitor daily caffeine intake, combining health awareness with programming practice.
 
-**🔢 Math Quiz Series**
-A set of Python scripts generating random math quizzes, enhancing both my math skills and coding logic.
+**🔢 Python Quiz Series**
+A set of Python scripts that generate general knowledge quizzes, helping me strengthen both my general knowledge and coding logic.
 
 **🛒 Shopping App**
 A simple application that simulates a shopping experience, introducing concepts of item selection and budgeting.
