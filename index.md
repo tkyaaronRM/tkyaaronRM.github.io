@@ -102,7 +102,7 @@ A conceptual design document for a robot car, merging interests in robotics and 
 **📱 WhatsApp Clone**
 An endeavor to recreate basic messaging functionalities, understanding communication protocols and user interfaces.
 
-Click [here](https://github.com/tkyaaronRM/projects) for my collection of python projects
+Click [here](https://github.com/tkyaaronRM/projects) for my collection of coding projects
 
 ## My Music Journey
 
